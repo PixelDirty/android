@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="packages/apps/LineageParts" name="PixelDirty/android_packages_apps_LineageParts" />
-    <project path="packages/apps/Eleven" name="PixelDirty/android_packages_apps_Eleven" />
-    <project path="packages/apps/Camera2" name="PixelDirty/packages_apps_Camera2" />
+    <project path="packages/apps/LineageParts" name="PixelDirty/android_packages_apps_LineageParts" revision="ten" />
+    <project path="packages/apps/Eleven" name="PixelDirty/android_packages_apps_Eleven" revision="ten" />
+    <project path="packages/apps/Camera2" name="PixelDirty/packages_apps_Camera2" revision="ten" />
     
-    <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" groups="pdk-fs" remote="aosp" />
+    <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" groups="pdk-fs" remote="aosp" revision="ten" />
 </manifest>
